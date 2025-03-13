@@ -21,18 +21,16 @@ SpotWeld is a spot welder project based on the AtMega328p MCU (Nano). It allows 
 2. The microcontroller reads the voltage across the shunt resistor to calculate the current flowing through the circuit
 
 ## Circuit Diagram
-![Circuit Diagram](images/DiagramCircuitSpotWeld.png)
-
-## Perfboard Layout
-![Perfboard Sketch](images/PerfCircuitSpotWeld.PNG)
+<img src="images/DiagramCircuitSpotWeld.png" width="650">
 
 ## Photos
 <p align="left">
-  <img src="images/IncludingWeldCable.jpg" height="400" alt="Including Weld Cable">
+    <img src="images/PerfCircuitSpotWeld.PNG" height="340" alt="Including Weld Cable">
+    <img src="images/IncludingWeldCable.jpg" height="340" style="margin-right: 10px;" alt="Top View">
 </p>
 
 <p align="left">
-  <img src="images/topView.jpg" height="300" style="margin-right: 10px;" alt="Top View">
-  <img src="images/explainerPhoto.jpg" height="300" style="margin-right: 10px;" alt="Explainer Photo">
-  <img src="images/CircuitPhoto.jpg" height="300" alt="Circuit Photo">
+  <img src="images/topView.jpg" height="320" style="margin-right: 10px;" alt="Top View">
+  <img src="images/explainerPhoto.jpg" height="320" style="margin-right: 10px;" alt="Explainer Photo">
+  <img src="images/CircuitPhoto.jpg" height="320" alt="Circuit Photo">
 </p>
